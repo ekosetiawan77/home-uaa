@@ -3,51 +3,51 @@
 	const kegiatanInternasional = [
 		{
 			id: 1,
-			judul: "Contoh Kegiatan Internasional 1",
-			gambar: "/kegiatan.webp",
-			link: "#",
-			tanggal: "2024-01-15",
-			kategori: "Conference"
+			judul: "Universitas Alma Ata dan Al-Farabi KazNU Perkuat Kerja Sama Internasional di Bidang Pendidikan dan Riset",
+			gambar: "https://almaata.ac.id/wp-content/uploads/2026/06/image-3-1080x675.jpeg",
+			link: "https://almaata.ac.id/universitas-alma-ata-dan-al-farabi-kaznu-perkuat-kerja-sama-internasional-di-bidang-pendidikan-dan-riset/",
+			tanggal: "2026-06-2",
+			kategori: "Collaboration"
 		},
 		{
 			id: 2,
-			judul: "Contoh Kegiatan Internasional 2", 
-			gambar: "/kegiatan.webp",
-			link: "#",
-			tanggal: "2024-02-20",
-			kategori: "Workshop"
+			judul: "Kerja Sama UAA dan EAGI Kazakhstan Fokus Pengembangan Pendidikan dan Riset", 
+			gambar: "https://almaata.ac.id/wp-content/uploads/2026/05/kerja-sama-UAA-dan-EAGI.png",
+			link: "https://almaata.ac.id/kerja-sama-uaa-dan-eagi-kazakhstan-fokus-pengembangan-pendidikan-dan-riset/",
+			tanggal: "2026-05-26",
+			kategori: "Collaboration"
 		},
 		{
 			id: 3,
-			judul: "Contoh Kegiatan Internasional 3",
-			gambar: "/kegiatan.webp", 
-			link: "#",
-			tanggal: "2024-03-10",
-			kategori: "Seminar"
+			judul: "Alma Ata dan MNU Kazakhstan Resmi Bangun Kemitraan Akademik",
+			gambar: "https://almaata.ac.id/wp-content/uploads/2026/05/image.png", 
+			link: "https://almaata.ac.id/disaksikan-dubes-ri-uaa-dan-mnu-kazakhstan-resmi-bangun-kemitraan-akademik/",
+			tanggal: "2026-05-24",
+			kategori: "Collaboration"
 		},
 		{
 			id: 4,
-			judul: "Contoh Kegiatan Internasional 4",
-			gambar: "/kegiatan.webp",
-			link: "#",
-			tanggal: "2024-04-05",
+			judul: "Universitas Alma Ata Teken MoU dengan Samarkand State Medical University Uzbekistan",
+			gambar: "https://almaata.ac.id/wp-content/uploads/2026/05/image-1-1080x675.jpeg",
+			link: "https://almaata.ac.id/universitas-alma-ata-teken-mou-dengan-samarkand-state-medical-university-uzbekistan-perkuat-kerja-sama-akademik-riset-hingga-student-exchange/",
+			tanggal: "2026-05-21",
 			kategori: "Collaboration"
 		},
 		{
 			id: 5,
-			judul: "Contoh Kegiatan Internasional 5",
-			gambar: "/kegiatan.webp",
-			link: "#",
-			tanggal: "2024-05-12",
-			kategori: "Exchange"
+			judul: "Universitas Alma Ata Tandatangani MoU dengan Universiti Kebangsaan Malaysia ",
+			gambar: "https://almaata.ac.id/wp-content/uploads/2024/03/TTD-MoU-Malaysia-UAA.png",
+			link: "https://almaata.ac.id/universitas-alma-ata-tandatangani-mou-dengan-universiti-kebangsaan-malaysia-untuk-mengawal-menuju-world-class-university/",
+			tanggal: "2024-03-6",
+			kategori: "Collaboration"
 		},
 		{
 			id: 6,
-			judul: "Contoh Kegiatan Internasional 6",
-			gambar: "/kegiatan.webp",
-			link: "#",
-			tanggal: "2024-06-18",
-			kategori: "Research"
+			judul: "UAA Yogyakarta dan UKM Bangi Tandatangani MoU untuk Wujudkan World Class University",
+			gambar: "https://almaata.ac.id/wp-content/uploads/2024/03/MoU-Malaysia-UAA.png",
+			link: "https://almaata.ac.id/uaa-yogyakarta-dan-ukm-bangi-tandatangani-mou-untuk-wujudkan-world-class-university/",
+			tanggal: "2024-03-06",
+			kategori: "Collaboration"
 		}
 	];
 
