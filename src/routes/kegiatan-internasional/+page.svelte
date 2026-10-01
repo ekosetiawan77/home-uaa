@@ -116,7 +116,7 @@
 	<!-- Load More Button -->
 	<div class="text-center mb-16">
 		<a
-			href="https://si.almaata.ac.id/kegiatan/"
+			href="https://almaata.ac.id/category/kerjasama/"
 			class="inline-block bg-primary hover:bg-primary/80 font-instrument rounded-xl px-8 py-4 text-white font-medium transition-all duration-300"
 		>
 			Lihat Lebih Banyak
