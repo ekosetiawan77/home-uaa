@@ -33,7 +33,7 @@
 	});
 
 	const images = $state([
-		'/Banner-Web.webp',
+		'/banner-web.webp',
 		'/Banner-3.webp',
 		'/S1-Sistem-Informasi-ASIIN.webp',
 		'/S1-Informatika-ASIIN.webp',
