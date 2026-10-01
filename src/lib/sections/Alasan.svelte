@@ -1,14 +1,14 @@
 <script lang="ts">
     const reasons = [
-        'Terakreditasi UNGGUL, menjamin kualitas pendidikan tinggi yang sangat terpercaya.',
-        'Peringkat 79 PTN PTS se-Indonesia & 8 PTN PTS se-DIY berdasarkan Webometrics 2026',
+        'Fasilitas Pembelajaran Modern dan Smart Technology.',
+        'Akreditasi Unggul, menjamin kualitas pendidikan tinggi yang sangat terpercaya.',
+        'Peringkat 3 PTS di DIY & 5 PTN-PTS Se Yogyakarta ( Unirank 2024)',
+        'Kurikulum Adaptif yang Relevan Dengan Dunia Kerja.',
         'Salah satu universitas dengan pertumbuhan tercepat menurut KEMENRISTEK DIKTI.',
-        'Kurikulum yang fleksibel untuk pengembangan potensi mahasiswa',
-        'Jaringan luas dalam & luar negeri, membuka peluang studi lanjut dan karier global.',
-        'Peraih penghargaan Uji Kompetensi Terbaik: Peringkat #1 Regional & #3 Nasional.',
-        'Kesempatan magang bersertifikat di BUMN, menambah pengalaman profesional.',
-        'Masa tunggu kerja singkat, dengan lulusan yang siap bersaing di dunia industri.',
-        'Biaya kuliah terjangkau, didukung kualitas tinggi dan berbagai beasiswa.'
+        'Relasi Dosen-Mahasiswa yang Dekat, Hangat, dan Suportif',
+        'Pendidikan Berbasis Nilai-nilai Islam dan akhlak mulia.',
+        'Lulusan Cepat Mendapatkan Pekerjaan (Rata-rata 3,7 Bulan Setelah Lulus)',
+        'Jaringan luas dalam & luar negeri, membuka peluang studi lanjut dan karier global.'
     ]
 
     // State untuk reveal
